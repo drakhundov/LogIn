@@ -1,0 +1,33 @@
+.cred {
+	color:green;
+    border: 2px solid blue;
+    border-right-style: dotted;
+    border-radius: 1em;
+
+    margin: 0 0 1em 0;
+    padding: 10px;
+
+    font-size: 25px;
+}
+
+.container {
+	margin: 10px;
+	padding: 50px;
+
+	background-color: orangered;
+
+	border: 1px solid tomato;
+	border-radius: 3px;
+	border-left-style: dotted;
+}
+
+.submit-btn {
+	background-color: yellow;
+
+	margin-left: 25px;
+	margin-bottom: 15px;
+	padding: 10px 5px;
+
+	border: 1px solid tomato;
+	border-radius: 7px;
+}
